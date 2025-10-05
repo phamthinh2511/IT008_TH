@@ -1,8 +1,0 @@
-C:\Users\cirso\OneDrive\Code\TH1\Bai6\bin\Debug\Bai6.exe.config
-C:\Users\cirso\OneDrive\Code\TH1\Bai6\bin\Debug\Bai6.exe
-C:\Users\cirso\OneDrive\Code\TH1\Bai6\bin\Debug\Bai6.pdb
-C:\Users\cirso\OneDrive\Code\TH1\Bai6\obj\Debug\Bai6.csproj.AssemblyReference.cache
-C:\Users\cirso\OneDrive\Code\TH1\Bai6\obj\Debug\Bai6.csproj.CoreCompileInputs.cache
-C:\Users\cirso\OneDrive\Code\TH1\Bai6\obj\Debug\Bai6.exe
-C:\Users\cirso\OneDrive\Code\TH1\Bai6\obj\Debug\Bai6.pdb
-C:\Users\cirso\OneDrive\Code\TH1\Bai6\obj\Debug\Bai6.exe.config
